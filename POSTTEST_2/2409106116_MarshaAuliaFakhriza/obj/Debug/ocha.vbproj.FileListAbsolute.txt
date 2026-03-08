@@ -1,0 +1,12 @@
+C:\Users\melch\OneDrive\Documents\ocha\ocha\obj\Debug\ocha.vbproj.AssemblyReference.cache
+C:\Users\melch\OneDrive\Documents\ocha\ocha\obj\Debug\ocha.Form1.resources
+C:\Users\melch\OneDrive\Documents\ocha\ocha\obj\Debug\ocha.Resources.resources
+C:\Users\melch\OneDrive\Documents\ocha\ocha\obj\Debug\ocha.vbproj.GenerateResource.cache
+C:\Users\melch\OneDrive\Documents\ocha\ocha\obj\Debug\ocha.vbproj.CoreCompileInputs.cache
+C:\Users\melch\OneDrive\Documents\ocha\ocha\bin\Debug\ocha.exe.config
+C:\Users\melch\OneDrive\Documents\ocha\ocha\bin\Debug\ocha.exe
+C:\Users\melch\OneDrive\Documents\ocha\ocha\bin\Debug\ocha.pdb
+C:\Users\melch\OneDrive\Documents\ocha\ocha\bin\Debug\ocha.xml
+C:\Users\melch\OneDrive\Documents\ocha\ocha\obj\Debug\ocha.exe
+C:\Users\melch\OneDrive\Documents\ocha\ocha\obj\Debug\ocha.xml
+C:\Users\melch\OneDrive\Documents\ocha\ocha\obj\Debug\ocha.pdb
